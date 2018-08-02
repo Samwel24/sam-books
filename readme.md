@@ -20,7 +20,7 @@ This Project is more like a test challenge project.
 
 ## Install
 
-To install just ```$ git clone https://github.com/Samwel24/seeker.git```
+To install just ```$ git clone https://github.com/Samwel24/sam-books.git```
 
 
 ## RavePay
