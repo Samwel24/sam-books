@@ -1,0 +1,21 @@
+{
+    "name": "dreamaker/sam-ebooks",
+    "description": "a small script showing how to I used flutterwave ravepay to for payment transactions",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SamuelEzedi",
+            "email": "sammyandrew44@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "^7.3@dev"
+    },
+    "autoload" : {
+        "psr-4": {
+            "App\\" : "app"
+        }
+    }
+}

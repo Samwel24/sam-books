@@ -1,0 +1,10 @@
+ 
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generate d handler, do not edit
+RewriteEngine  On
+#RewriteCond %{REQUEST_FILENAME}.php -f
+#RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

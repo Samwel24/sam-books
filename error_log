@@ -1,0 +1,25 @@
+[02-Aug-2018 17:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Main::returnedUrl() in /home2/resultsn/public_html/flutterwave-project/sam-books/report.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/resultsn/public_html/flutterwave-project/sam-books/report.php on line 8
+[02-Aug-2018 17:35:11 UTC] PHP Warning:  curl_setopt(): Invalid curl configuration option in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Curl.php on line 29
+[02-Aug-2018 17:35:12 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 96
+[02-Aug-2018 17:35:12 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 98
+[02-Aug-2018 17:35:12 UTC] PHP Notice:  Undefined variable: resp in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 104
+[02-Aug-2018 17:36:00 UTC] PHP Warning:  curl_setopt(): Invalid curl configuration option in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Curl.php on line 29
+[02-Aug-2018 17:36:01 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 96
+[02-Aug-2018 17:36:01 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 98
+[02-Aug-2018 17:37:59 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 96
+[02-Aug-2018 17:37:59 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 98
+[02-Aug-2018 17:39:44 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 96
+[02-Aug-2018 17:39:44 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 98
+[02-Aug-2018 17:39:44 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 102
+[02-Aug-2018 17:41:16 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 96
+[02-Aug-2018 17:41:16 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 98
+[02-Aug-2018 17:41:16 UTC] PHP Notice:  Undefined variable: response in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 102
+[02-Aug-2018 17:57:40 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 116
+[02-Aug-2018 17:57:48 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 116
+[02-Aug-2018 20:18:47 UTC] PHP Notice:  Undefined index: status in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 109
+[02-Aug-2018 20:18:47 UTC] PHP Notice:  Undefined index: chargecode in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 110
+[02-Aug-2018 20:18:47 UTC] PHP Notice:  Undefined index: amount in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 111
+[02-Aug-2018 20:18:47 UTC] PHP Notice:  Undefined index: currency in /home2/resultsn/public_html/flutterwave-project/sam-books/app/Main.php on line 112
