@@ -23,7 +23,7 @@ class Main {
 
 	public function proceedpayment(){
 
-		$customer_email 		= 'odili.i@yahoo.com';
+		$customer_email 		= $_SESSION['payment']['email'];
 		$amount 				= $_SESSION['payment']['amount'];  
 		$currency 				= $_SESSION['payment']['currency'];
 		$txref 					= $_SESSION['payment']['ref']; 
@@ -118,4 +118,3 @@ class Main {
         }
 	}
 }
-    
