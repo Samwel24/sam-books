@@ -30,7 +30,7 @@ RavePay is a flagship Payment gateway of Flutterwave the modern payment infrastr
 
 ## License
 
-Contact is free software distributed under the terms of the MIT license.
+Sam-Books is free software distributed under the terms of the MIT license.
 
 ## Contribution guidelines
 
