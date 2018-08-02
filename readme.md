@@ -25,7 +25,7 @@ To install just ```$ git clone https://github.com/Samwel24/sam-books.git```
 
 ## RavePay
 
-RavePay is a flagship Payment gateway of Flutterwave the modern payment infrastructure to power Africa's digital economy was used as a payment tool for this project.
+RavePay is a flagship Payment gateway of Flutterwave the modern payment infrastructure to power Africa's digital economy. RavePay is used as a payment tool for this project.
 
 
 ## License
