@@ -1,8 +1,8 @@
 # Sam-Books
 
-[![Issues](https://img.shields.io/github/issues/Samwel24/contact-pck.svg)](https://github.com/Samwel24/contact-pck/issues)
-[![Forks](https://img.shields.io/github/forks/Samwel24/contact-pck.svg)](https://github.com/Samwel24/contact-pck/network)
-[![License](https://img.shields.io/github/license/Samwel24/contact-pck.svg)](https://github.com/Samwel24/contact-pck)
+[![Issues](https://img.shields.io/github/issues/Samwel24/sam-books.svg)](https://github.com/Samwel24/sam-books/issues)
+[![Forks](https://img.shields.io/github/forks/Samwel24/sam-books.svg)](https://github.com/Samwel24/sam-books/network)
+[![License](https://img.shields.io/github/license/Samwel24/sam-books.svg)](https://github.com/Samwel24/sam-books/blob/master/LICENSE.md)
 
 ## Table of Contents
 
