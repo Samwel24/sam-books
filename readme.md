@@ -11,7 +11,7 @@
 - [Install](#install)
 - [RavePay](#ravepay)
 - [Testing](#testing)
-- [Use Case Document](#usecase)
+- [UseCaseDocument](#usecase)
 - [License](#license)
 
 ## About
@@ -38,7 +38,7 @@ and these were to assert if our CURL class existed, the our RavePay API which wa
 To view the Test Unit navigate into the [tests/unit](https://github.com/Samwel24/sam-books/tree/master/tests/units) folder.
 
 
-## Use Case Document
+## UseCaseDocument
 
 A use case document was prepared for this project you can [view the use case document here](https://www.dropbox.com/s/443s84mm24av19z/samuelezedi-use-case-document.pdf?dl=0)
 
