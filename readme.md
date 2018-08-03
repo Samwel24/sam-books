@@ -11,6 +11,7 @@
 - [Install](#install)
 - [RavePay](#ravepay)
 - [Testing](#testing)
+- [Use Case Document](#usecase)
 - [License](#license)
 
 ## About
@@ -35,6 +36,11 @@ This project makes use of PHPUnit for its unit testing, although the tests weren
 and these were to assert if our CURL class existed, the our RavePay API which was called return no errors and the The RavePay json returned data actually had values in it and the redirect link was also not empty.
 
 To view the Test Unit navigate into the [tests/unit](https://github.com/Samwel24/sam-books/tree/master/tests/units) folder.
+
+
+## Use Case Document
+
+A use case document was prepared for this project you can [view the use case document here](https://www.dropbox.com/s/443s84mm24av19z/samuelezedi-use-case-document.pdf?dl=0)
 
 
 ## License
