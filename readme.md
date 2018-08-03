@@ -25,6 +25,8 @@ This Project is more like a test challenge project.
 
 To install just ```$ git clone https://github.com/Samwel24/sam-books.git```
 
+To view this application on live server [click here](http://results.net.ng/flutterwave-project/sam-books/)
+
 
 ## RavePay
 

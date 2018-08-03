@@ -27,7 +27,7 @@ class Main {
 		$amount 				= $_SESSION['payment']['amount'];  
 		$currency 				= $_SESSION['payment']['currency'];
 		$txref 					= $_SESSION['payment']['ref']; 
-		$PBFPubKey 				= "FLWPUBK-fa1b23acdc7aa88a804c452f7c7891b6-X";
+		$PBFPubKey 				= "FLWPUBK-586b1977e70cc193d69115924abebf96-X";
 		$redirect_url 			= "http://results.net.ng/flutterwave-project/sam-books/report";
 		$api 					= "https://ravesandboxapi.flutterwave.com/flwv3-pug/getpaidx/api/v2/hosted/pay";
 		
@@ -74,7 +74,7 @@ class Main {
 	public function returnedUrl($txref)
 	{
 		$query = array(
-	            "SECKEY" => "FLWSECK-3fecc3cae49cf89c95ad29926dec608e-X",
+	            "SECKEY" => "FLWSECK-695ecab991fa2c281c4a99b0086b53c8-X",
 	            "txref" => $txref,
 	            "include_payment_entity" => "1"
 	            
