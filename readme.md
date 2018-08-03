@@ -30,7 +30,7 @@ To view this application on live server [click here](http://results.net.ng/flutt
 
 ## RavePay
 
-RavePay is a flagship Payment gateway of Flutterwave the modern payment infrastructure to power Africa's digital economy. RavePay is used as a payment tool for this project, this is achieved by calling rave APIs with the merchant's credentials which will then authenticated and send the required response for user to input payment details to finalize the transaction. To learn more about Ravepay [visit here](https://ravesandbox.flutterwave.com/)
+RavePay is a flagship Payment gateway of Flutterwave the modern payment infrastructure to power Africa's digital economy. RavePay is used as a payment tool for this project, this is achieved by calling rave APIs with the merchant's credentials which will then authenticate and send the required response for user to input payment details to finalize the transaction. To learn more about Ravepay [visit here](https://ravesandbox.flutterwave.com/)
 
 ## Testing
 
