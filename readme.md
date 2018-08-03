@@ -11,7 +11,7 @@
 - [Install](#install)
 - [RavePay](#ravepay)
 - [Testing](#testing)
-- [UseCaseDocument](#usecase)
+- [UseCaseDocument](#UseCaseDocument)
 - [License](#license)
 
 ## About
